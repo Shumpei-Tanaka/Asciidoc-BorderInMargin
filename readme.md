@@ -9,7 +9,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Shumpei-Tanaka/asciidoc-borderinmargin">
+  <a href="https://github.com/Shumpei-Tanaka/Asciidoc-BorderInMargin">
     <img src="readme.md_assets/image.png" alt="Logo" width="180">
   </a>
 
@@ -18,9 +18,9 @@
   <p align="center">
     Script to write border lines in page margin.
     <br />
-    <a href="https://github.com/Shumpei-Tanaka/asciidoc-borderinmargin/issues">Report Bug</a>
+    <a href="https://github.com/Shumpei-Tanaka/Asciidoc-BorderInMargin/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Shumpei-Tanaka/asciidoc-borderinmargin/issues">Request Feature</a>
+    <a href="https://github.com/Shumpei-Tanaka/Asciidoc-BorderInMargin/issues">Request Feature</a>
   </p>
   <p align="center">
     <a href="/README.md">English</a>
@@ -129,18 +129,18 @@ links are below.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[release-shield]: https://img.shields.io/github/v/release/Shumpei-Tanaka/asciidoc-borderinmargin?style=flat-square&sort=semver
-[release-url]: https://github.com/Shumpei-Tanaka/asciidoc-borderinmargin/releases/latest
-[license-shield]: https://img.shields.io/github/license/Shumpei-Tanaka/asciidoc-borderinmargin?flat-square
+[release-shield]: https://img.shields.io/github/v/release/Shumpei-Tanaka/Asciidoc-BorderInMargin?style=flat-square&sort=semver
+[release-url]: https://github.com/Shumpei-Tanaka/Asciidoc-BorderInMargin/releases/latest
+[license-shield]: https://img.shields.io/github/license/Shumpei-Tanaka/Asciidoc-BorderInMargin?flat-square
 [license-url]: /LICENSE.md
-[contributors-shield]: https://img.shields.io/github/contributors/Shumpei-Tanaka/asciidoc-borderinmargin.svg?style=flat-square
-[contributors-url]: https://github.com/Shumpei-Tanaka/asciidoc-borderinmargin/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Shumpei-Tanaka/asciidoc-borderinmargin.svg?style=flat-square
-[forks-url]: https://github.com/Shumpei-Tanaka/asciidoc-borderinmargin/network/members
-[stars-shield]: https://img.shields.io/github/stars/Shumpei-Tanaka/asciidoc-borderinmargin.svg?style=flat-square
-[stars-url]: https://github.com/Shumpei-Tanaka/asciidoc-borderinmargin/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Shumpei-Tanaka/asciidoc-borderinmargin.svg?style=flat-square
-[issues-url]: https://github.com/Shumpei-Tanaka/asciidoc-borderinmargin/issues
+[contributors-shield]: https://img.shields.io/github/contributors/Shumpei-Tanaka/Asciidoc-BorderInMargin.svg?style=flat-square
+[contributors-url]: https://github.com/Shumpei-Tanaka/Asciidoc-BorderInMargin/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Shumpei-Tanaka/Asciidoc-BorderInMargin.svg?style=flat-square
+[forks-url]: https://github.com/Shumpei-Tanaka/Asciidoc-BorderInMargin/network/members
+[stars-shield]: https://img.shields.io/github/stars/Shumpei-Tanaka/Asciidoc-BorderInMargin.svg?style=flat-square
+[stars-url]: https://github.com/Shumpei-Tanaka/Asciidoc-BorderInMargin/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Shumpei-Tanaka/Asciidoc-BorderInMargin.svg?style=flat-square
+[issues-url]: https://github.com/Shumpei-Tanaka/Asciidoc-BorderInMargin/issues
 [Paypal-shield]: https://img.shields.io/badge/paypal.me-s6tanaka-white?style=flat-square&logo=paypal
 [Paypal-url]: https://paypal.me/s6tanaka
 [BuyMeACoffee-sheild]: https://img.shields.io/badge/buy_me_a_coffee-s6tanaka-white?style=flat-square&logo=buymeacoffee&logocolor=#FFDD00
