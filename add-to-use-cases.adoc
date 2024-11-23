@@ -1,0 +1,24 @@
+
+
+=== Page border in margin
+
+* HomePage of this script author: 
+
+There is a feature: `Page Border` and `Surround header` in Word of Microsoft's Office.
+
+This converter was made for substitution of their.
+
+.Extended converter with border hole page
+[,ruby]
+----
+include::asciidoc-settings/borderHolePage.rb[tags=**]
+----
+
+`write_header_border` is function to write border surround header.
+It takes values below from style setting.
+
+* header margin
+* herder column ratios
+
+`write_mergin_border` is function to write page border in mergin.
+It takes margin values from style setting.
