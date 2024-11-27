@@ -18,6 +18,8 @@
   <p align="center">
     Script to write border lines in page margin.
     <br />
+    <a href="https://shumpei-tanaka.github.io/en/posts/2024-11-23-asciidoc-page-border-in-margin/">Introduce blog post</a>
+    <br />
     <a href="https://github.com/Shumpei-Tanaka/Asciidoc-BorderInMargin/issues">Report Bug</a>
     ·
     <a href="https://github.com/Shumpei-Tanaka/Asciidoc-BorderInMargin/issues">Request Feature</a>
@@ -31,12 +33,13 @@
 
 1. [Demo](#demo)
 2. [Usage](#usage)
-3. [Rules](#rules)
-4. [Contributing](#contributing)
+3. [Details](#details)
+4. [Rules](#rules)
+5. [Contributing](#contributing)
     1. [How to contributing](#how-to-contributing)
-5. [License](#license)
-6. [Contact](#contact)
-7. [Say Thank You](#say-thank-you)
+6. [License](#license)
+7. [Contact](#contact)
+8. [Say Thank You](#say-thank-you)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -61,6 +64,21 @@ command to try is below.
 ```sh
 asciidoctor-pdf sample.adoc -r ./asciidoc-settings/borderHolePage.rb
 ```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Details
+
+`write_header_border` is function to write border surround header.
+It takes values below from style setting.
+
+-   header margin
+-   herder column ratios
+
+`write_mergin_border` is function to write page border in mergin.
+It takes margin values from style setting.
+
+There is a sample style setting in [./asciidoc-settings/borderHolePage.yml](./asciidoc-settings/borderHolePage.yml).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
